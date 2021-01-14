@@ -1,0 +1,83 @@
+/* needed css */
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color:  #2A1E59;
+    font-size: 48px;
+}
+h2, h3, h4, h5, h6, p, a{
+    font-family: 'Roboto', sans-serif;
+    color:  #2A1E59;
+}
+img{
+    max-width: 100%;
+}
+p{
+    color: gray;
+}
+.penguin-btn{
+    font-size: 16px;
+    background-color:  #2A1E59;
+    padding: 10px 20px;
+}
+/* header part css */
+.penguin-header{
+    background-color: #FFFFF4;
+}
+.penguin-nav img{
+    width: 300px;
+}
+.hero-area h1{
+    font-size: 80px;
+}
+.hero-area h1 span{
+    color: #76C27E;
+}
+
+/* start main area css */
+
+.contact-card{
+    border: 0;
+}
+.contact-card .penguin-card{
+    padding: 20px;
+}
+.contact-card .penguin-card img{
+    background-color: white;
+}
+/* card design */
+.penguin-card{
+    border: 0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    border-radius: 10px;
+}
+.penguin-card img{
+   background-color: #f1f1f1; 
+   border-radius: 20px;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: #fff;
+}
+.penguin-card-footer h3{
+    color: #76C27E;
+    font-weight: bolder;
+    font-size: 33px;
+}
+.review{
+    background-color: #2A1E59;
+    padding: 10px 20px;
+    
+}
+.review h6{
+    margin-top: 9px;
+    color: white;
+}
+/* footer area design */
+.contact{
+    background-color: #FFFFF4;
+}
+.sub-footer{
+    color: white;
+    background-color: #2A1E59;
+}
